@@ -8,6 +8,9 @@ My research interest includes:
 - Transportation and logistics system optimization (e.g., electric vehicle transportation network design)
 - Emergency management, humanitarian logistics (e.g., humanitarian transportation network design)
 
+### 📫 Contact
+- Email: <xinxu@tongji.edu.cn> or <xu-david.xin@connect.polyu.hk>.
+
 ### 📎 Homepages
 
 - Personal Pages: http://xinxu.space/ (updated recently🔥)
