@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<p align="center"> :octocat: <b><a href="https://xinxu.space/">Website (Chinese)</a> / <a href="https://xinxu.space/pdf/CV-Xu%20Xin.pdf">Resume (Chinese)</a> / <a href="https://xinxu.space/xinxu-en/">Website (English)</a> / <a href="https://xinxu.space/xinxu-en/pdf/CV-Xu%20Xin.pdf">Resume (English)</a>  :octocat: </p>
+<p align="center"> :octocat: <b><a href="https://xinxu.space/">Website (Chinese)</a> / <a href="https://xinxu.space/pdf/CV-Xu%20Xin.pdf">Resume (Chinese)</a> / <a href="https://xinxu.space/xinxu-en/">Website (English)</a> / <a href="https://xinxu.space/xinxu-en/pdf/CV-Xu%20Xin.pdf">Resume (English)</a> </b> :octocat: </p>
 
 # Hi there 👋
 
