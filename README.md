@@ -12,13 +12,12 @@ My research interest includes:
 - Emergency management, humanitarian logistics (e.g., humanitarian transportation network design)
 
 ### 📝 Resume
-Click **[📝HERE (Chinese)](https://xinxu.space/pdf/CV-Xu%20Xin.pdf)** **[📝HERE (English)](https://xinxu.space/xinxu-en/pdf/CV-Xu%20Xin.pdf)** to view my resume in detail.
+Click **[📝HERE (Chinese)](https://xinxu.space/pdf/CV-Xu%20Xin.pdf)** or **[📝HERE (English)](https://xinxu.space/xinxu-en/pdf/CV-Xu%20Xin.pdf)** to view my resume in detail.
 
 ### 📫 Contact
 - Email: <xinxu@tongji.edu.cn> or <xu-david.xin@connect.polyu.hk>.
 
 ### 📎 Homepages
-
 - Personal Pages: http://xinxu.space/ (updated recently🔥)
 - Research gate: https://www.researchgate.net/profile/Xu-Xin-17
 - Google Scholar: https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ
