@@ -11,6 +11,9 @@ My research interest includes:
 - Transportation and logistics system optimization (e.g., electric vehicle transportation network design)
 - Emergency management, humanitarian logistics (e.g., humanitarian transportation network design)
 
+### 📝 Resume
+Click **[📝HERE (Chinese)](https://xinxu.space/pdf/CV-Xu%20Xin.pdf)** **[📝HERE (English)](https://xinxu.space/xinxu-en/pdf/CV-Xu%20Xin.pdf)** to view my resume in detail.
+
 ### 📫 Contact
 - Email: <xinxu@tongji.edu.cn> or <xu-david.xin@connect.polyu.hk>.
 
