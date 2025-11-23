@@ -3,7 +3,7 @@
 
 # Hi there 👋
 
-I graduated from School of Maritime Economics and Management, Dalian Maritime University (大连海事大学), Dalian China with a bachelor’s degree. Now I am a joint PhD candidate of The Hong Kong Polytechnic University (Supervisor: Prof. Shuaian Wang), PR China & Tongji University (Supervisor: Prof. Xiaoli Wang), PR China. I also collaborate with Prof. Zhongzhen Yang, Prof. Kang Chen and Tao Zhang closely. I have published 30+ SCI/SSCI papers. If you are seeking any form of academic cooperation, please feel free to email me at <xinxu@tongji.edu.cn> or <xu-david.xin@connect.polyu.hk>.
+I graduated from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (Supervisor: [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/)) & [Tongji University](https://en.tongji.edu.cn/p/#/) (Supervisor: [Prof. Xiaoli Wang](https://sem.tongji.edu.cn/semen/12017.html)), earning two PhD degrees. Now I am a postdoctoral fellow at [Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I also collaborate with [Prof. Zhongzhen Yang](https://hyxy.nbu.edu.cn/info/2692/45955.htm), [Prof. Kang Chen](https://scholar.google.com.hk/citations?user=iaLX5Y8AAAAJ) and [Mr. Tao Zhang](https://zhangtao-david.github.io/) closely. If you are seeking any form of **academic cooperation**, please feel free to email me at <x.xin@polyu.edu.hk> or <xu-david.xin@connect.polyu.hk>.
 
 My research interest includes:
 - Port management (e.g., berth allocation, berth allocation and quay crane assignment)
