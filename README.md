@@ -8,7 +8,7 @@ I graduated from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk
 My research interest includes:
 - Port management (e.g., berth allocation, berth allocation and quay crane assignment)
 - Shipping management (e.g., liner shipping network design, vessel scheduling)
-- Transportation and logistics system optimization (e.g., electric vehicle transportation network design)
+- Transportation and logistics system optimization (e.g., electric vehicle transportation network design, flow shop scheduling)
 - Emergency management, humanitarian logistics (e.g., humanitarian transportation network design)
 
 ### 📝 Resume
