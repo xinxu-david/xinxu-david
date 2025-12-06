@@ -30,4 +30,4 @@ Click **[ğŸ“HERE (Chinese)](https://xinxu.space/pdf/CV-Xu%20Xin.pdf)** or **[ğŸ
 My full paper list is shown at [my personal homepage (Chinese)](http://xinxu.space/) and [my personal homepage (English)](http://xinxu.space/xinxu-en/).
 
 <a href="https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a> 
-<a href="https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/xu-xin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
